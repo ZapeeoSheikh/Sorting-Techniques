@@ -1,5 +1,5 @@
 # Sorting-Techniques
-This Repository Contain almost all sorting Techniques that are used most commonly used in the world. 
+This Repository Contain almost all sorting Techniques that are used most commonly in the world. 
 
 All Code is Explained in C++ So this code can also used for sorting algorithm and 
 Can be converted into your desired Language 
